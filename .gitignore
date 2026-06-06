@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Puff buff
+puff_imagery
+buff_helavouation
+puff/
